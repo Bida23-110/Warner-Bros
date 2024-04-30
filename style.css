@@ -1,4 +1,12 @@
-body {
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+      list-style: none;
+    }
+
+    body {
       background-color: black;
     }
 
@@ -15,7 +23,8 @@ body {
       padding: 40px 30px;
       transition: 0.5s;
     }
-  header.shadow {
+
+    header.shadow {
       background: black;
       
     }
@@ -305,11 +314,4 @@ body {
         display: initial;
         color: white;
       }
-    }
- * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      text-decoration: none;
-      list-style: none;
     }
