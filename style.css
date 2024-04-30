@@ -118,8 +118,11 @@
       justify-content: center;
       align-items: center;
     }
-.prev {
+
+      .prev {
       left: 10px;
+      }
+
     h2 {
       max-width: 968px;
       margin-left: auto;
