@@ -67,7 +67,7 @@
     nav a:hover {
       border-bottom: 3px solid blue;
     }
-collections figure {
+collections figure img {
 	width:200;
 	height:200;
 }
